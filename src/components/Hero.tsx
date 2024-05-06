@@ -69,7 +69,7 @@ const Hero = () => {
             >
               <div className="w-full h-full absolute top-0 left-0" />
               <Image
-                src="/logo.svg"
+                src="/space.svg"
                 width={100}
                 height={100}
                 alt="logo"
